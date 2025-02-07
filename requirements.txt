@@ -3,8 +3,8 @@ nltk==3.9.1
 matplotlib==3.8.0
 pandas==2.0.3
 SpeechRecognition==3.14.1
-sounddevice
-scipy
-numpy
-speechrecognition
-streamlit-webrtc
+sounddevice==0.4.6
+scipy==1.11.3
+numpy==1.25.2
+speechrecognition==3.14.1
+streamlit-webrtc==0.44.4
